@@ -1,5 +1,5 @@
 <script>
-  import OfferShape from "/offer/offer-shape.png"
+  // import OfferShape from "/offer/offer-shape.png"
   import PopupLong from '$lib/components/ui/PopupLong.svelte';
   import {modal} from '../../../stores/modalStore.js'
 
@@ -68,7 +68,7 @@
         <div class="col-sm-4">
           <div class="single-special-offer">
             <div class="single-special-offer-bg">
-              <img src={OfferShape} alt="offer-shape">
+              <img src={"/offer/offer-shape.png"} alt="offer-shape">
             </div><!--/.single-special-offer-bg-->
             <div class="single-special-shape-txt">
               <h3>special offer</h3>
