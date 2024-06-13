@@ -28,7 +28,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="single-package-item">
-            <img src={P1} alt="package-place">
+            <img src={"/packages/p1.jpg"} alt="package-place">
             <div class="single-package-item-txt">
               <h3>italy <span class="pull-right">$499</span></h3>
               <div class="packages-para">

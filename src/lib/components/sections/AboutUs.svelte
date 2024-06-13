@@ -7,7 +7,6 @@
             <div class="about-us-txt">
               <h2>
                 Explore the Beauty of the Beautiful World
-
               </h2>
               <div class="about-btn">
                 <button  class="about-view">
