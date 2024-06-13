@@ -11,6 +11,6 @@
 
 <h1>Get the app</h1>
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center">
-  <img src="/static/images.jpeg">
+  <img src="/images.jpg">
   <p>Use the <a href="">Tournest</a> app to request to book icons and get notified about new ones.</p>
 </div>
