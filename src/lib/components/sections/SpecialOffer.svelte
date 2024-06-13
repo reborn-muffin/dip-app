@@ -68,7 +68,7 @@
         <div class="col-sm-4">
           <div class="single-special-offer">
             <div class="single-special-offer-bg">
-              <img src={"/offer/offer-shape.png"} alt="offer-shape">
+              <img src={"/static/offer/offer-shape.png"} alt="offer-shape">
             </div><!--/.single-special-offer-bg-->
             <div class="single-special-shape-txt">
               <h3>special offer</h3>
