@@ -1,6 +1,6 @@
 <script>
-  import Testimonial1 from "/static/client/testimonial1.jpg"
-  import Testimonial2 from "/static/client/testimonial2.jpg"
+  import Testimonial1 from "/client/testimonial1.jpg"
+  import Testimonial2 from "/client/testimonial2.jpg"
 </script>
 
 <section class="testemonial">

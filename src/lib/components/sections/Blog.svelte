@@ -1,7 +1,7 @@
 <script>
-  import B1 from "/static/blog/b1.jpg"
-  import B3 from "/static/blog/b3.jpg"
-  import B2 from "/static/blog/b2.jpg"
+  import B1 from "/blog/b1.jpg"
+  import B3 from "/blog/b3.jpg"
+  import B2 from "/blog/b2.jpg"
 
 </script>
 

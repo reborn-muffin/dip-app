@@ -1,5 +1,5 @@
 <script>
-  import OfferShape from "/static/offer/offer-shape.png"
+  import OfferShape from "/offer/offer-shape.png"
   import PopupLong from '$lib/components/ui/PopupLong.svelte';
   import {modal} from '../../../stores/modalStore.js'
 

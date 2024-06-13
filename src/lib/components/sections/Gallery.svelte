@@ -1,10 +1,4 @@
 <script>
-  import G1 from "/static/gallary/china.jpg"
-  import G2 from "/static/gallary/venuzuela.jpg"
-  import G3 from "/static/gallary/brazil.jpg"
-  import G4 from "/static/gallary/australia.jpg"
-  import G5 from "/static/gallary/netharlands.jpg"
-  import G6 from "/static/gallary/turkey.jpg"
   import {onMount} from 'svelte';
 
   let tours = []
@@ -71,82 +65,6 @@
                   </div><!-- /.filtr-item -->
                 </div><!-- /.col -->
               {/each}
-
-<!--              <div class="col-md-6">-->
-<!--                <div class="filtr-item">-->
-<!--                  <img src={G1} alt="portfolio image"/>-->
-<!--                  <div class="item-title">-->
-<!--                    <a href="#">-->
-<!--                      china-->
-<!--                    </a>-->
-<!--                    <p><span>20 tours</span><span>15 places</span></p>-->
-<!--                  </div>&lt;!&ndash; /.item-title &ndash;&gt;-->
-<!--                </div>&lt;!&ndash; /.filtr-item &ndash;&gt;-->
-<!--              </div>&lt;!&ndash; /.col &ndash;&gt;-->
-
-<!--              <div class="col-md-6">-->
-<!--                <div class="filtr-item">-->
-<!--                  <img src={G2} alt="portfolio image"/>-->
-<!--                  <div class="item-title">-->
-<!--                    <a href="#">-->
-<!--                      venuzuala-->
-<!--                    </a>-->
-<!--                    <p><span>12 tours</span><span>9 places</span></p>-->
-<!--                  </div> &lt;!&ndash; /.item-title&ndash;&gt;-->
-<!--                </div>&lt;!&ndash; /.filtr-item &ndash;&gt;-->
-<!--              </div>&lt;!&ndash; /.col &ndash;&gt;-->
-
-<!--              <div class="col-md-4">-->
-<!--                <div class="filtr-item">-->
-<!--                  <img src={G3} alt="portfolio image"/>-->
-<!--                  <div class="item-title">-->
-<!--                    <a href="#">-->
-<!--                      brazil-->
-<!--                    </a>-->
-<!--                    <p><span>25 tours</span><span>10 places</span></p>-->
-<!--                  </div>&lt;!&ndash; /.item-title &ndash;&gt;-->
-<!--                </div>&lt;!&ndash; /.filtr-item &ndash;&gt;-->
-<!--              </div>&lt;!&ndash; /.col &ndash;&gt;-->
-
-<!--              <div class="col-md-4">-->
-<!--                <div class="filtr-item">-->
-<!--                  <img src={G4} alt="portfolio image"/>-->
-<!--                  <div class="item-title">-->
-<!--                    <a href="#">-->
-<!--                      australia-->
-<!--                    </a>-->
-<!--                    <p><span>18 tours</span><span>9 places</span></p>-->
-<!--                  </div> &lt;!&ndash; /.item-title&ndash;&gt;-->
-<!--                </div>&lt;!&ndash; /.filtr-item &ndash;&gt;-->
-<!--              </div>&lt;!&ndash; /.col &ndash;&gt;-->
-
-<!--              <div class="col-md-4">-->
-<!--                <div class="filtr-item">-->
-<!--                  <img src={G5} alt="portfolio image"/>-->
-<!--                  <div class="item-title">-->
-<!--                    <a href="#">-->
-<!--                      netharlands-->
-<!--                    </a>-->
-<!--                    <p><span>14 tours</span><span>12 places</span></p>-->
-<!--                  </div> &lt;!&ndash; /.item-title&ndash;&gt;-->
-<!--                </div>&lt;!&ndash; /.filtr-item &ndash;&gt;-->
-<!--              </div>&lt;!&ndash; /.col &ndash;&gt;-->
-
-<!--              <div class="col-md-8">-->
-<!--                <div class="filtr-item">-->
-<!--                  <img src={G6} alt="portfolio image"/>-->
-<!--                  <div class="item-title">-->
-<!--                    <a href="#">-->
-<!--                      turkey-->
-<!--                    </a>-->
-<!--                    <p><span>14 tours</span><span>6 places</span></p>-->
-<!--                  </div> &lt;!&ndash; /.item-title&ndash;&gt;-->
-<!--                </div>&lt;!&ndash; /.filtr-item &ndash;&gt;-->
-<!--              </div>&lt;!&ndash; /.col &ndash;&gt;-->
-
-<!--            </div>&lt;!&ndash; /.row &ndash;&gt;-->
-
-<!--          </div>&lt;!&ndash; /.filtr-container&ndash;&gt;-->
         </div><!-- /.gallery-content -->
       </div><!--/.galley-box-->
     </div><!--/.gallery-details-->

@@ -1,10 +1,10 @@
 <script>
-  import P1 from "/static/packages/p1.jpg"
-  import P2 from "/static/packages/p2.jpg"
-  import P3 from "/static/packages/p3.jpg"
-  import P4 from "/static/packages/p4.jpg"
-  import P5 from "/static/packages/p5.jpg"
-  import P6 from "/static/packages/p6.jpg"
+  import P1 from "/packages/p1.jpg"
+  import P2 from "/packages/p2.jpg"
+  import P3 from "/packages/p3.jpg"
+  import P4 from "/packages/p4.jpg"
+  import P5 from "/packages/p5.jpg"
+  import P6 from "/packages/p6.jpg"
   import {modal} from '../../../stores/modalStore.js';
   import PopupLong from '$lib/components/ui/PopupLong.svelte';
 

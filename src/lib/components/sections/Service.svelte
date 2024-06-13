@@ -1,7 +1,7 @@
 <script>
-  import S1 from "/static/service/s1.png"
-  import S2 from "/static/service/s2.png"
-  import S3 from "/static/service/s3.png"
+  import S1 from "/service/s1.png"
+  import S2 from "/service/s2.png"
+  import S3 from "/service/s3.png"
 </script>
 
 <section id="service" class="service">
